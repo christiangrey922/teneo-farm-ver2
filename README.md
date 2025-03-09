@@ -17,7 +17,7 @@ New version for teneo farming with multiple account
 
 4. Create a `tokens.txt` file in the root directory and add your tokens as format: email:tokens.
 5. Creaate file proxy.txt and add your proxy as format: http://user:pass@ip:port
-You can buy proxy at [here]{https://app.proxies.fo/ref/2fe2c521-8a31-47f2-5f90-776f2627dd01}.  Use ISP proxy with unlimited thread, you can run a milion account as much as u can.
+You can buy proxy at [here](https://app.proxies.fo/ref/2fe2c521-8a31-47f2-5f90-776f2627dd01).  Use ISP proxy with unlimited thread, you can run a milion account as much as u can.
 ![image](https://github.com/user-attachments/assets/f8e6e7ca-85b3-4c18-b075-5ab15d9d8da3)
 
 

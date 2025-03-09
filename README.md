@@ -5,8 +5,8 @@ New version for teneo farming with multiple account
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/christiangrey922/Arichain-reg.git
-   cd arichain-autoreff
+   git clone https://github.com/christiangrey922/teneo-farm-ver2.git
+   cd teneo-farm-ver2
    ```
 2. Extract file with pasword: @christiangrey922 or @Christiangrey922
 3. Install the dependencies:
